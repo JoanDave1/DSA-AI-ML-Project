@@ -51,9 +51,6 @@ Fraud is more prevalent in online transactions where pin or chip is not inputted
 
 (NOTE: The distance-based features represent values that show how unusual the transaction location is compared to what is normal for that customer, rather than real-world physical distances. Higher values indicate abnormal transaction locations relative to a customer’s typical behavior.)
 
-#### 6. Correlation Analysis:
-
-Moderate correlations exist between fraud and distance from home, distance from last transaction, ratio to median purchase price and online transactions. It should be noted however, that no single feature determines fraud and fraud detection depends on combined behavioural patterns. 
 
 
 #### Live Demo:
