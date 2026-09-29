@@ -23,7 +23,7 @@ This ensured the model learned meaningful patterns without bias.
 
 #### 1. Class Distribution (Fraud vs. No Fraud)
 
-The dataset is highly imbalanced with fraudulent transactions greatly outnumbering non-fraudulent transactions. This reflects that payment systems that lead to fraudulent transactions are in most cases, rare. Special care was taken to ensure that models and metrics (precision, recall, roc-auc) suitable for imbalanced data were used. e
+The dataset is highly imbalanced with non-fraudulent transactions greatly outnumbering fraudulent transactions. This reflects that payment systems that lead to fraudulent transactions are in most cases, rare. Special care was taken to ensure that models and metrics (precision, recall, roc-auc) suitable for imbalanced data were used. 
 
 <img width="450" height="234" alt="image" src="https://github.com/user-attachments/assets/79a158f7-4e1d-47a3-bb63-bc9bd41ab929" />
 
